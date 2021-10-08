@@ -1,16 +1,16 @@
-# Readme 
+# Shopping-site 
 
-https://github.com/dthompasionas/Readme
+https://github.com//Shopping-site
 
 # Description
-With this app you will be able to make a professional README super easy and fast.
+A site showing products added to cart with a checkout.
 
 # Table of Contents
 * [License](#license) 
 * [Installation](#installation)
 * [Tests](#tests)
 * [Usage](#usage)
-* [Contribute](#contributions)
+* [Contribute](#contribute)
 * [Questions](#questions)
 
 # License 
@@ -19,22 +19,26 @@ This project is licensed with a MIT license.
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 # Installation
-The following necessary dependencies are required to run this app: inquirer, as well as require fs. 
+The following necessary dependencies are required to run this app: npm i  
 
 # Tests
-The following command is needed to run test: node index.js
+The following command is needed to run test: npm start
 
 # Usage
-In order to use this app, run in terminal
+In order to use this app, test pay now with number 4242 for full card number, cvc and date
 
 # Contribute
-If you would like to contribute to the app push up code to be reviewed.
+send pull request to be reviewed 
 
-#Screenshot:
+# Screenshot:
+
+![](./public/assets/shopping-home.png)
+
+![](./public/assets/shopping-cart.png)
 
 # Questions
 Contact me with any questions here:
 
 *Github: dthompasionas
 
-*email: dthompasionas@gmail.com 
+*email: dthopasionas@gmail.com 
